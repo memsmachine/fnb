@@ -3,7 +3,7 @@
 [![Java CI with Maven](https://github.com/SAP/lein/actions/workflows/ci-build.yml/badge.svg)](https://github.com/SAP/lein/actions/workflows/ci-build.yml)
 [![Fosstars security rating](https://raw.githubusercontent.com/SAP/lein/fosstars-report/fosstars_badge.svg)](https://github.com/SAP/lein/blob/fosstars-report/fosstars_report.md)
 
-# lein
+# EmailChecker
 
 Utility for easily reading application configurations for bound services in the SAP Business Technology Platform Cloud
 Foundry and Kubernetes (K8S) environment.
